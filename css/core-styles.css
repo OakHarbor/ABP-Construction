@@ -350,7 +350,8 @@ h1, h2, h3, h4, h5, h6 {
 .side-nav ul {
 	margin: 0;
 	text-align: right;
-	list-style: none;
+    list-style: none;
+    margin-top: 70px;
 }
 
 .side-nav ul li {
