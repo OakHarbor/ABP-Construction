@@ -685,15 +685,6 @@ video {
             flex-direction: column;
 }
 
-.review:before {
-    content: url("/images/quote.svg");
-    position: absolute;
-    width: 60px !important;
-    height: 60px !important;
-    top: -30px;
-    margin: auto;
-}
-
 .review p:first-child {
     text-align: center;
     margin-bottom: 27px;
